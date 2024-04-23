@@ -1,24 +1,5 @@
-# RF
-
-[ ] Deve ser possível criar um usuário
-[ ] Deve ser possível registrar uma refeição feita
-    - Nome
-    - Descrição
-    - Data e Hora
-    - Está dentro ou não da dieta
-[ ] Deve ser possível editar uma refeição
-[ ] Deve ser possível apagar uma refeição
-[ ] Deve ser possível listar todas as refeições de um usuário
-[ ] Deve ser possível visualizar uma única refeição
-[ ] Deve ser possível recuperar as métricas de um usuário
-    - Quantidade total de refeições registradas
-    - Quantidade total de refeições dentro da dieta
-    - Quantidade total de refeições fora da dieta
-    - Melhor sequência de refeições dentro da dieta
-
-# RN
-
-[ ] Deve ser possível identificar o usuário entre as requisições
-[ ] O usuário só pode visualizar, editar e apagar as refeições o qual ele criou
-
-# RNF
+<div align="center">
+    <h1 align="center">🚀 Challenge 02 - Ignite NodeJS - Rocketseat 🥗🥦🥕🍓</h1>
+    <p>Application developed to complete a challenge from the Ignite Node.js Routes and HTTP module by Rocketseat.</p> 
+    <p>A complete API project to organize your daily diet, enabling to create meals and check your metrics and the best sequence.</p>
+</div>
